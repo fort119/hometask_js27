@@ -1,0 +1,27 @@
+.container {
+  max-width: 1200px;
+  margin: 30px auto;
+  background: #f1f1f1;
+  padding: 30px;
+}
+
+.count {
+  display: flex;
+}
+
+img {
+  width: 50px;
+}
+
+.voting__options {
+  display: flex;
+  justify-content: space-around;
+}
+
+.voting__option-img {
+  cursor: pointer;
+}
+
+.voting__option-text {
+  text-align: center;
+}
